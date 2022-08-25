@@ -1,0 +1,23 @@
+{
+  "name": "basic-setup",
+  "version": "1.0.0",
+  "description": "basic node js site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysmitjadhav/node-basic-setup.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysmitjadhav/node-basic-setup/issues"
+  },
+  "homepage": "https://github.com/jaysmitjadhav/node-basic-setup#readme"
+}
